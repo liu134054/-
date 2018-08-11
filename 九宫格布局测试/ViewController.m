@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     //写一个文件试试
+    //在网页直接编写下载试试
 }
 
 - (void)didReceiveMemoryWarning {
