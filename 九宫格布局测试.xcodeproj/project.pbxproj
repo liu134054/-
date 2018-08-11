@@ -416,6 +416,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "九宫格布局测试/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Mac.-------";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -427,6 +428,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "九宫格布局测试/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Mac.-------";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -498,6 +500,7 @@
 				79E870B41CA92E04000F7DFB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		79E870B51CA92E04000F7DFB /* Build configuration list for PBXNativeTarget "九宫格布局测试Tests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +509,7 @@
 				79E870B71CA92E04000F7DFB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		79E870B81CA92E04000F7DFB /* Build configuration list for PBXNativeTarget "九宫格布局测试UITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +518,7 @@
 				79E870BA1CA92E04000F7DFB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
